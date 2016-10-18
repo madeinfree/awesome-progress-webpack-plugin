@@ -21,7 +21,7 @@ npm install --save-dev awesome-progress-webpack-plugin
 ### YARN
 
 ```
-yarn add --dev awesome-progress-webpack-pluginmarf
+yarn add --dev awesome-progress-webpack-plugin
 ```
 
 ## USE
