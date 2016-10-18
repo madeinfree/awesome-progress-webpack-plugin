@@ -2,6 +2,14 @@
 
 Webpack awesome progress with i18n plugin
 
+### en_US
+
+
+![en_US](http://i.imgur.com/oF5sDKV.png)
+
+### zh_TW
+![zh_TW](http://i.imgur.com/71rVD9E.png)
+
 ## Installation
 
 ### NPM
