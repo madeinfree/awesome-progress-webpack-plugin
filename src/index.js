@@ -1,4 +1,4 @@
-function AwesomeProgressPlugin(options = {}, handler) {
+function AwesomeProgressPlugin(options, handler) {
   this.handler = handler
   this.options = options
 }
