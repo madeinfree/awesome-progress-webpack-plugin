@@ -1,0 +1,13 @@
+### OSX ###
+.DS_Store
+.tern-port
+.AppleDouble
+.LSOverride
+
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+
+node_module
