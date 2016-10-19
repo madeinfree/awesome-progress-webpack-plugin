@@ -35,3 +35,6 @@ new AwesomeProgressPlugin({ language: 'en_US' }, function(percentage, msg) {
   process.stdout.write(msg)
 }),
 ```
+
+# License
+MIT
