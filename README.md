@@ -1,5 +1,7 @@
 # Awesome Progress Plugin
 
+**Inspiration by webpack-progress-plugin**
+
 Webpack awesome progress with i18n plugin
 
 ### en_US
