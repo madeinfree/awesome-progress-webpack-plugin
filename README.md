@@ -29,7 +29,7 @@ yarn add --dev awesome-progress-webpack-plugin
 ## USE
 
 ```javascript
-var AwesomeProgressPlugin = require('./plugin/awesome-progress-plugin')
+var AwesomeProgressPlugin = require('awesome-progress-webpack-plugin')
 
 new AwesomeProgressPlugin({ language: 'en_US' }, function(percentage, msg) {
   process.stdout.clearLine()
